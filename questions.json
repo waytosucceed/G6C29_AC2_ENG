@@ -1,0 +1,280 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "Which is the continuous form of 'I play'?",
+        "options": [
+            "I playing",
+            "I am playing",
+            "I have playing",
+            "I will playing"
+        ],
+        "correct": 1,
+        "explanation": "To form the present continuous, we use 'am/is/are' + verb-ing."
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "'She has eaten' is in the present perfect tense. (True / False)",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0,
+        "explanation": "'Has eaten' is the present perfect form, using 'has' + past participle."
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "Fill in the blank: The past perfect continuous of 'run' is 'She _____ running.' (has been / had been)",
+        "options": [
+            "has been",
+            "had been"
+        ],
+        "correct": 1,
+        "explanation": "Past perfect continuous uses 'had been' + verb-ing."
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "Which is the future perfect form of 'I will study'?",
+        "options": [
+            "I will have studied",
+            "I will be studying",
+            "I have studied",
+            "I am studying"
+        ],
+        "correct": 0,
+        "explanation": "Future perfect uses 'will have' + past participle."
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "What is the present continuous form of 'They sing'?",
+        "options": [
+            "They are singing",
+            "They were singing",
+            "They have sung",
+            "They will sing"
+        ],
+        "correct": 0,
+        "explanation": "Present continuous uses 'am/is/are' + verb-ing."
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "'He had played' is in the past perfect tense. (True / False)",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0,
+        "explanation": "Past perfect uses 'had' + past participle."
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "Fill in the blank: The present perfect continuous of 'work' is 'We _____ working.' (have been / had been)",
+        "options": [
+            "have been",
+            "had been"
+        ],
+        "correct": 0,
+        "explanation": "Present perfect continuous uses 'have/has been' + verb-ing."
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "Which is the past continuous form of 'She wrote'?",
+        "options": [
+            "She was writing",
+            "She is writing",
+            "She has written",
+            "She will be writing"
+        ],
+        "correct": 0,
+        "explanation": "Past continuous uses 'was/were' + verb-ing."
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "What is the future continuous form of 'They will dance'?",
+        "options": [
+            "They will be dancing",
+            "They are dancing",
+            "They have danced",
+            "They were dancing"
+        ],
+        "correct": 0,
+        "explanation": "Future continuous uses 'will be' + verb-ing."
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "'We have been reading' is in the present perfect continuous tense. (True / False)",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0,
+        "explanation": "Present perfect continuous uses 'have/has been' + verb-ing."
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "Fill in the blank: The past perfect of 'eat' is 'He _____ eaten.' (has / had)",
+        "options": [
+            "has",
+            "had"
+        ],
+        "correct": 1,
+        "explanation": "Past perfect uses 'had' + past participle."
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "Which is the present perfect form of 'I swim'?",
+        "options": [
+            "I have swum",
+            "I am swimming",
+            "I was swimming",
+            "I will swim"
+        ],
+        "correct": 0,
+        "explanation": "Present perfect uses 'have/has' + past participle."
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "What is the future perfect continuous form of 'They will play'?",
+        "options": [
+            "They will have been playing",
+            "They will be playing",
+            "They have played",
+            "They are playing"
+        ],
+        "correct": 0,
+        "explanation": "Future perfect continuous uses 'will have been' + verb-ing."
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "'She is singing' is in the present continuous tense. (True / False)",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0,
+        "explanation": "Present continuous uses 'am/is/are' + verb-ing."
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "Fill in the blank: The future perfect of 'finish' is 'You _____ finished.' (will have / will has)",
+        "options": [
+            "will have",
+            "will has"
+        ],
+        "correct": 0,
+        "explanation": "Future perfect uses 'will have' + past participle."
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "Which is the past perfect continuous form of 'He ran'?",
+        "options": [
+            "He had been running",
+            "He was running",
+            "He has run",
+            "He will run"
+        ],
+        "correct": 0,
+        "explanation": "Past perfect continuous uses 'had been' + verb-ing."
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "What is the present perfect form of 'They go'?",
+        "options": [
+            "They have gone",
+            "They are going",
+            "They were going",
+            "They will go"
+        ],
+        "correct": 0,
+        "explanation": "Present perfect uses 'have/has' + past participle."
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "'We will have been working' is in the future perfect continuous tense. (True / False)",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0,
+        "explanation": "Future perfect continuous uses 'will have been' + verb-ing."
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "Fill in the blank: The past continuous of 'sleep' is 'I _____ sleeping.' (were / was)",
+        "options": [
+            "were",
+            "was"
+        ],
+        "correct": 1,
+        "explanation": "Past continuous uses 'was/were' + verb-ing."
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "Which is the present continuous form of 'It rains'?",
+        "options": [
+            "It is raining",
+            "It was raining",
+            "It has rained",
+            "It will rain"
+        ],
+        "correct": 0,
+        "explanation": "Present continuous uses 'am/is/are' + verb-ing."
+    },
+    {
+        "questionNo": "Q21.",
+        "question": "What is the past perfect form of 'We saw'?",
+        "options": [
+            "We had seen",
+            "We were seeing",
+            "We have seen",
+            "We will see"
+        ],
+        "correct": 0,
+        "explanation": "Past perfect uses 'had' + past participle."
+    },
+    {
+        "questionNo": "Q22.",
+        "question": "Fill in the blank: The present perfect continuous of 'study' is 'He _____ studying.' (had been / has been)",
+        "options": [
+            "had been",
+            "has been"
+        ],
+        "correct": 1,
+        "explanation": "Present perfect continuous uses 'have/has been' + verb-ing."
+    },
+    {
+        "questionNo": "Q23.",
+        "question": "Which is the future perfect form of 'They will win'?",
+        "options": [
+            "They will have won",
+            "They will be winning",
+            "They have won",
+            "They are winning"
+        ],
+        "correct": 0,
+        "explanation": "Future perfect uses 'will have' + past participle."
+    },
+    {
+        "questionNo": "Q24.",
+        "question": "What is the past continuous form of 'You walked'?",
+        "options": [
+            "You were walking",
+            "You are walking",
+            "You have walked",
+            "You will walk"
+        ],
+        "correct": 0,
+        "explanation": "Past continuous uses 'was/were' + verb-ing."
+    },
+    {
+        "questionNo": "Q25.",
+        "question": "What is the present perfect continuous form of 'They work'?",
+        "options": [
+            "They have been working",
+            "They are working",
+            "They had worked",
+            "They will work"
+        ],
+        "correct": 0,
+        "explanation": "Present perfect continuous uses 'have/has been' + verb-ing."
+    }
+]
